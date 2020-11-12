@@ -1,0 +1,12 @@
+body{
+	background-color: #5286f3;
+	font-size: 14px;
+	color: #ffff;
+}
+
+.login-container{
+	width: 300px;
+	max-width: 100%;
+	margin: 50px auto;
+}
+
